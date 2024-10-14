@@ -1,0 +1,7 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_report_event_810Movement"
+		texturefile = "gfx/events/810Mod_810Movement.dds"
+	}
+}

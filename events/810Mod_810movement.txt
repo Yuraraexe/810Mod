@@ -1,0 +1,16 @@
+add_namespace = 810Mod
+country_event = {
+	id = 810Movement
+	title = 810Movement.title
+	desc = 810Movement.desc
+	pitcure = GFX_report_event_810Movement
+	trigger = {
+		tag = JAP
+		date < 1936.08.09
+		date > 1936.08.11
+	}
+	option = {
+		name = 810Movement.a
+	}
+}
+#210x176
